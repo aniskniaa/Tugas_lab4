@@ -1,0 +1,7 @@
+D:\Tugas Pemrograman\Tugas_Lab4\Tugas_Lab4\obj\Debug\Tugas_Lab4.csprojAssemblyReference.cache
+D:\Tugas Pemrograman\Tugas_Lab4\Tugas_Lab4\obj\Debug\Tugas_Lab4.csproj.CoreCompileInputs.cache
+D:\Tugas Pemrograman\Tugas_Lab4\Tugas_Lab4\bin\Debug\Tugas_Lab4.exe.config
+D:\Tugas Pemrograman\Tugas_Lab4\Tugas_Lab4\bin\Debug\Tugas_Lab4.exe
+D:\Tugas Pemrograman\Tugas_Lab4\Tugas_Lab4\bin\Debug\Tugas_Lab4.pdb
+D:\Tugas Pemrograman\Tugas_Lab4\Tugas_Lab4\obj\Debug\Tugas_Lab4.exe
+D:\Tugas Pemrograman\Tugas_Lab4\Tugas_Lab4\obj\Debug\Tugas_Lab4.pdb
